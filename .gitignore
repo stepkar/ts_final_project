@@ -1,6 +1,7 @@
-# в репозитории только ноутбук, tex, figures и data
+# в репозитории только ноутбук, tex, pdf, readme, figures и data
 *
 !.gitignore
+!README.md
 !TS_itog_Karsakov.ipynb
 !report_TS_itog_Karsakov.tex
 !report_TS_itog_Karsakov.pdf
