@@ -1,0 +1,11 @@
+# в репозитории только ноутбук, tex, figures и data
+*
+!.gitignore
+!TS_itog_Karsakov.ipynb
+!report_TS_itog_Karsakov.tex
+!report_TS_itog_Karsakov.pdf
+!data/
+!data/**
+!figures/
+!figures/**
+.DS_Store
